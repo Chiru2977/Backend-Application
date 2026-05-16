@@ -4,13 +4,13 @@ body{
 }
 
 h1{
-    color: rgb(72, 66, 66);
+    color: rgb(132, 24, 24);
     text-align: center;
     cursor: pointer;
 }
 p{
     font-size: 18px;
-    color: rgb(41, 146, 15);
+    color: rgb(236, 230, 230);
     text-align: center;
     cursor: pointer;
 }
